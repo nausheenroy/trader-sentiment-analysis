@@ -5,9 +5,11 @@ Trader Performance vs Market Sentiment Analysis
 -Objective
 Analyze how market sentiment (Fear vs Greed) affects trader behavior and performance.
 
--Methodology
+-Methodology:
 Cleaned and preprocessed two datasets (sentiment + trader data)
+
 Converted timestamps and aligned on daily level
+
 Created key metrics:
 Daily PnL
 Win rate
