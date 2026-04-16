@@ -2,14 +2,12 @@
 Analysis of trader performance vs market sentiment (Fear vs Greed)
 Trader Performance vs Market Sentiment Analysis
 
--Objective
+-Objective:
 Analyze how market sentiment (Fear vs Greed) affects trader behavior and performance.
 
 -Methodology:
 Cleaned and preprocessed two datasets (sentiment + trader data)
-
 Converted timestamps and aligned on daily level
-
 Created key metrics:
 Daily PnL
 Win rate
@@ -18,12 +16,12 @@ Leverage usage
 Compared performance under Fear vs Greed conditions
 Segmented traders based on behavior
 
--Key Insights
+-Key Insights:
 Traders tend to perform worse during Fear periods due to panic-driven decisions
 Trading activity and risk-taking increase during Greed phases
 High leverage significantly increases losses during negative sentiment
 
--Strategy Recommendations
+-Strategy Recommendations:
 Reduce leverage during Fear periods
 Increase trading selectively during Greed phases
 Apply stricter risk management (stop-loss) in volatile conditions
