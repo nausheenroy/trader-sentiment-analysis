@@ -25,3 +25,7 @@ High leverage significantly increases losses during negative sentiment
 Reduce leverage during Fear periods
 Increase trading selectively during Greed phases
 Apply stricter risk management (stop-loss) in volatile conditions
+
+<img width="655" height="539" alt="Win rate" src="https://github.com/user-attachments/assets/ac27415e-bd52-4916-850a-320f2c0741a0" />
+<img width="655" height="453" alt="Trade frequency" src="https://github.com/user-attachments/assets/171b19ca-dcae-4185-bd7c-13321bc69f9a" />
+<img width="655" height="453" alt="PnL distribution" src="https://github.com/user-attachments/assets/91011192-0ed3-4fba-9dae-dab5b8ec0fa6" />
